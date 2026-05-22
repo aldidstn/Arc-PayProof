@@ -1,0 +1,6 @@
+{
+  "name": "ArcPay Receipt",
+  "description": "A simple no-database Arc Testnet dApp for sending USDC and generating instant on-chain payment receipts from confirmed transaction receipts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
